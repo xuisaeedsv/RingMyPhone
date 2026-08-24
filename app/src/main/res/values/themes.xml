@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.RingMyPhone" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+
+    <style name="Theme.RingMyPhone.Ring" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
